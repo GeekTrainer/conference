@@ -12,12 +12,13 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "hello_world/templates/index.html"
+        "conference/models.py"
       ]
     },
     "vscode": {
       "extensions": [
-        "ms-python.python"
+        "ms-python.python",
+        "GitHub.copilot"
       ]
     }
   },
